@@ -1,2 +1,2 @@
-# ProjectEuler.NET
-Implementations for the Project Euler problems in C#
+# ProjectEuler.NETCore
+Implementations for the Project Euler problems in C# using .NetCore
